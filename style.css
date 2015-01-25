@@ -1,0 +1,13 @@
+.nav {
+  background-color: #669999;
+  color: #fff;
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  text-align: right;
+}
+
+.nav li {
+  display: inline;
+  padding: 10px;
+}
