@@ -11,3 +11,56 @@
   display: inline;
   padding: 10px;
 }
+
+.jumbotron {
+  background-image: url('emilyhamstra.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px
+}
+
+.jumbotron h1 {
+   font-family: 'Quicksand', sans-serif;
+   font-size: 65px;
+   font-weight: bold;
+   color: white;
+   padding-top: 220px;
+   padding-left: 100px;
+}
+
+.jumbotron a {
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding-left: 260px;
+}
+
+.cv h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.cv h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.cv h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.cv p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.cv {
+  padding-left: 200px;
+  padding-right: 200px;
+}
