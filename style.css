@@ -1,5 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  padding: 0px;
 }
 
 .jumbotron {
@@ -15,7 +17,8 @@ body {
    font-weight: bold;
    color: white;
    padding-top: 220px;
-   padding-left: 100px;
+   padding-left: 95px;
+   margin-top: 0px;
 }
 
 .jumbotron a {
